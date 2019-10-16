@@ -1,0 +1,64 @@
+#outerbox
+{
+   width:640px;
+   overflow:hidden;
+   margin-left:10px;
+   border: 15px dotted darkblue;
+}
+#sliderbox
+{
+     position:relative;
+     width:3200px;
+	 
+	 animation-name:bhoomika;
+	 animation-duration:20s;
+	 animation-iteration-count:infinite;
+	 
+}
+#sliderbox img
+{
+	 float:left;
+	 
+}
+@keyframes bhoomika
+{
+     0%
+	 {
+		 left:0px;
+	 }
+	 20%
+	 {
+	     left:0px;
+	 }
+	 25%
+	 {
+         left:-640px;
+	 }
+	 45%
+	 {
+		 left:-640px;
+	 }
+	 50%
+	 {
+		 left:-1280px;
+	 }
+	 70%
+	 {
+		left:-1280px; 
+		 
+	 }
+     75%
+	 {
+        left:-1920px;
+	 }	 
+	 95%
+	 {
+		 left:-1920px;
+	 }
+      100%
+	  {
+	     left:-3200px;
+	  }
+}
+
+	

@@ -1,0 +1,38 @@
+
+body {
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+.stylebig {
+font-size: 18px;
+font-family: "Times New Roman", Times, serif;
+font-weight: bold;
+}
+.stylemedium {
+font-size: 14px;
+font-family: "Times New Roman", Times, serif;
+font-weight: bold;
+}
+.stylemall {
+font-family: "Times New Roman", Times, serif;
+font-size: 12px;
+font-weight: bold;
+}
+.stylegreen {font-family: "Times New Roman", Times, serif; font-size: 12px;
+font-weight: bold; color: #007F00; }
+.stylered {
+font-size: 12px;
+font-family: "Times New Roman", Times, serif;
+color: #FF0000;
+font-weight: bold;
+}
+.stylegrey {font-family: "Times New Roman", Times, serif; font-size: 12px;
+font-weight: bold; color: #550055; }
+.stylegreyre {font-family: "Times New Roman", Times, serif; font-size: 12px;
+font-weight: bold; color: #CCC; }
+.stylelink {font-family: "Times New Roman", Times, serif; font-size: 12px; fontweight:
+bold; color: #AA0000; }
+.stylelink2 {font-family: "Times New Roman", Times, serif; font-size: 12px;
+font-weight: bold; color: #999; }
